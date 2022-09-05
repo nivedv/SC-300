@@ -1,6 +1,6 @@
 ﻿version:v1.0,,,,,,,
 Name [displayName] Required,User name [userPrincipalName] Required,Initial password [passwordProfile] Required,Block sign in (Yes/No) [accountEnabled] Required,First name [givenName],Last name [surname],Job title [jobTitle],Department [department]
-Sanjay Singh,MalikB@<<<enter your domain name>>>,samplePassword1234$, No,Sanjay,Singh,VP,Marketing
-Saina Nehwal,AminaH@<<<enter your domain name>>>,samplePassword1234$, No,Saina,Nehwal,Sr Manager,Marketing
-Chirag Sen,LejlaS@<<<enter your domain name>>>,samplePassword1234$, No,Chirag,Sen,Global Head,Marketing
-Rohit Sharma,OmarB@<<<enter your domain name>>>,samplePassword1234$, No,Rohit,Sharma,Sr Manager,Marketing
+Sanjay Singh,SanjayS@<<<enter your domain name>>>,samplePassword1234$, No,Sanjay,Singh,VP,Marketing
+Saina Nehwal,SainaN@<<<enter your domain name>>>,samplePassword1234$, No,Saina,Nehwal,Sr Manager,Marketing
+Chirag Sen,ChiragS@<<<enter your domain name>>>,samplePassword1234$, No,Chirag,Sen,Global Head,Marketing
+Rohit Sharma,RohitS@<<<enter your domain name>>>,samplePassword1234$, No,Rohit,Sharma,Sr Manager,Marketing
